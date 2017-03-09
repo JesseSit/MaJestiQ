@@ -17,5 +17,7 @@ public class QuickSortTester{
 	System.out.println("Array length 100: " + test(100));
 	System.out.println("Array length 250: " + test(250));
 	System.out.println("Array length 500: " + test(500));
+	System.out.println("Array length 750: " + test(750));
+	System.out.println("Array length 1000: " + test(1000));
     }
 }
