@@ -1,9 +1,9 @@
 /*
 Team Name: MaJestiQ
-Team Members: Matteo 
-*/
-/*
+Team Members: Matteo Wong, Jesse Sit, Yuqi Wu
+
   This method takes an int value l and builds an array of size l. Then you run qsort to get the runtime for one execution and add it to a counter. Reshuffle and repeat for 10000 times. Divide the counter by 10000 to get the average runtime.
+
 */
 public class QuickSortTester{
     
