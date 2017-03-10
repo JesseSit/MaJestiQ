@@ -7,7 +7,7 @@ We ran QuickSort on arrays of varying length from 1 to 10000, using System.nanoT
 
 ##Time Measurements##
 Our data can be found here: https://docs.google.com/spreadsheets/d/1t0hJ7D7_WwOhTtF7iWuQBc5BWrOnrcI2-WcOq2Ts5nk/pubhtml
-We found that the run time increased linearly. We only put two trials because each trial has 10000 test cases per array length and because all the other ones printed in the terminal were super similar. The line is diagonal and the slope doesn't vary at all, meaning the run time is definitely linear most of the time.
+We found that the run time increased linearly. We only put two trials because each trial has 10000 test cases per array length and because all the other ones printed in the terminal were super similar. The line is either diagonal or has a slope that increases at a low rate, which makes it either linear of quadratic.
 
 ##Big Oh Classification##
 
